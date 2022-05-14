@@ -1,0 +1,32 @@
+{
+  "name": "kys-api",
+  "version": "1.0.3",
+  "description": "kaysa-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaysaSalsa/Kys-Api.git"
+  },
+  "keywords": [
+    "YNTKTS"
+  ],
+  "author": "Kaysa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaysaSalsa/Kys-Api/issues"
+  },
+  "homepage": "https://github.com/KaysaSalsa/Kys-Api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "kys-api": "^1.0.3",
+    "qs": "^6.10.1",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
